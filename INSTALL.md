@@ -1,10 +1,10 @@
 # Polonium Installation Guide
 
-This guide will help you install Polonium on KDE Plasma 6.3.6+.
+This guide will help you install Polonium on KDE Plasma 6.3+.
 
 ## Prerequisites
 
-- **KDE Plasma 6.3.6 or newer**
+- **KDE Plasma 6.3 or newer**
 - **Wayland session** (recommended, X11 has limited support)
 
 ## Installation Methods

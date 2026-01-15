@@ -7,7 +7,7 @@
                 "Name": "Vaughan Milliman"
             }
         ],
-        "Description": "Autotile window manager for KDE Plasma 6.3.6+",
+        "Description": "Autotile window manager for KDE Plasma 6.3+",
         "Icon": "preferences-system-windows-effect-presentwindows",
         "Id": "%NAME%",
         "License": "MIT",

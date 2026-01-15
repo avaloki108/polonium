@@ -20,9 +20,9 @@ The descendant of [autotile](https://github.com/zeroxoneafour/kwin-autotile).
 
 ## features
 
--   **Plasma 6.3.6+ Compatible** - Fully updated for the latest KDE Plasma releases
+-   **Plasma 6.3+ Compatible** - Fully updated for the latest KDE Plasma releases
 -   **Zero Configuration** - Works out of the box with sensible defaults
--   **Wayland Native** - Built for modern Wayland Plasma 6.3.6 and up
+-   **Wayland Native** - Built for modern Wayland Plasma 6.3 and up
 -   **Multiple Tiling Layouts** - BTree, Half, Three Column, Monocle, and KWin floating
 -   **Visual Tile Editor** - Edit tile sizes with the integrated KWin GUI (Meta+T)
 -   **Keyboard & Mouse Control** - Move and tile windows with Vim-style keybindings or mouse

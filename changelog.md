@@ -4,7 +4,7 @@
 
 ### 1.1.0
 
--   **Plasma 6.3.6+ Compatibility**: Updated minimum version to Plasma 6.3 for better compatibility
+-   **Plasma 6.3+ Compatibility**: Updated minimum version to Plasma 6.3 for better compatibility
 -   **Dependency Updates**: Updated all npm dependencies to latest versions
     -   TypeScript 5.2.2 → 5.9.3
     -   ESBuild 0.19.4 → 0.27.2
@@ -18,7 +18,7 @@
     -   Recommended settings for new users
     -   Troubleshooting section
     -   Hyprland-style ease of use improvements
--   **Metadata**: Updated description to reflect Plasma 6.3.6+ support
+-   **Metadata**: Updated description to reflect Plasma 6.3+ support
 
 ## 1.0
 
