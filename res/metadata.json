@@ -7,7 +7,7 @@
                 "Name": "Vaughan Milliman"
             }
         ],
-        "Description": "Autotile using KWin 5.27 features",
+        "Description": "Autotile window manager for KDE Plasma 6.3.6+",
         "Icon": "preferences-system-windows-effect-presentwindows",
         "Id": "%NAME%",
         "License": "MIT",
@@ -17,6 +17,6 @@
     "X-KDE-ConfigModule": "kwin/effects/configs/kcm_kwin4_genericscripted",
     "X-KDE-PluginKeyword": "polonium",
     "X-Plasma-API": "declarativescript",
-    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-API-Minimum-Version": "6.3",
     "X-Plasma-MainScript": "ui/main.qml"
 }
